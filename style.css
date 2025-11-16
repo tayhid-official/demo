@@ -4,7 +4,7 @@
   text-align: center;
   border: 10px double rgb(165, 174, 36);
   padding-top: 4px;
-  background-image:url(../Demo/Images/line\ falling.gif);
+  background-image:url(../Demo/images/line falling.gif);
 
 }
 .main img{
@@ -19,7 +19,7 @@
 font-weight: 100px;
 text-align: center;
 color: transparent;
-background-image:url(../Demo/Images/fire.gif);
+background-image:url(../Demo/images/fire.gif);
 -webkit-text-fill-color: none;
 -webkit-background-clip: text;
 }
@@ -40,7 +40,8 @@ background-image:url(../Demo/Images/fire.gif);
     border: 2px solid white;
 }
 .button:hover{
-    background-image:url(../Demo/Images/neon.gif);
+    background-image:url(../Demo/images/neon.gif);
     color:rgb(255, 255, 0);
+
 
 }
